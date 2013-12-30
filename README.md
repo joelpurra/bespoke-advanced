@@ -66,6 +66,8 @@ require('bespoke-advanced');
 
 [Mark Dalgleish](http://markdalgleish.com/) for [bespoke.js][bespoke.js] and related tools. This plugin was built with [generator-bespokeplugin](https://github.com/markdalgleish/generator-bespokeplugin).
 
+Ed Schipul, [eschipul on flickr](https://secure.flickr.com/photos/eschipul/), for his photo [river boat in the mist](https://secure.flickr.com/photos/eschipul/3133923970/) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)). My recompressed version is also released under CC BY-SA 2.0.
+
 My best friend, [bespoke-convenient](https://github.com/joelpurra/bespoke-convenient), for continued support - through good and bad times. You mah bro, bro.
 
 
