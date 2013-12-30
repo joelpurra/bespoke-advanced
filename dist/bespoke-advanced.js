@@ -1,5 +1,5 @@
 /*!
- * bespoke-advanced v0.0.0
+ * bespoke-advanced v0.1.0
  * https://github.com/joelpurra/bespoke-advanced
  *
  * Copyright 2013, Joel Purra
