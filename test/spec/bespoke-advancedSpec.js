@@ -1,23 +1,29 @@
-/*global document:true, jasmine:true, bespoke:true, describe:true, it:true, expect:true, beforeEach:true, runs:true, waitsFor:true, spyOn:true */
+/*global require:true, document:true, jasmine:true, describe:true, it:true, expect:true, beforeEach:true, runs:true, waitsFor:true, spyOn:true */
 
-(function(document, jasmine, bespoke, describe, it, expect, beforeEach, runs, waitsFor, spyOn) {
+Function.prototype.bind = Function.prototype.bind || require("function-bind");
+
+var bespoke = require("bespoke"),
+    convenient = require("bespoke-convenient"),
+    advanced = require("../../lib-instrumented/bespoke-advanced.js");
+
+(function(document, jasmine, bespoke, describe, it, expect, beforeEach, runs, waitsFor, spyOn, undefined) {
     "use strict";
 
     describe("bespoke-advanced", function() {
-
         var deck,
 
             createDeck = function(options) {
                 var parent = document.createElement("article");
+
                 for (var i = 0; i < 10; i++) {
                     parent.appendChild(document.createElement("section"));
                 }
 
                 options = options || true;
 
-                deck = bespoke.from(parent, {
-                    advanced: options
-                });
+                deck = bespoke.from(parent, [
+                    advanced(options)
+                ]);
             },
 
             createDeckWith50msInterval = function() {

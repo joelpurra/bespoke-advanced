@@ -3,9 +3,12 @@
 (function(bespoke) {
     "use strict";
 
-    bespoke.horizontal.from("article", {
-        advanced: {
+    bespoke.from('article', [
+        bespoke.plugins.keys(),
+        bespoke.plugins.touch(),
+        bespoke.plugins.classes(),
+        bespoke.plugins.advanced({
             interval: 1500
-        }
-    });
+        }),
+    ]);
 }(bespoke));
