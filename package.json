@@ -1,6 +1,6 @@
 {
     "name": "bespoke-advanced",
-    "version": "1.0.0-alpha.1",
+    "version": "1.0.0",
     "description": "Auto advance slides on a timer in Bespoke.js",
     "homepage": "https://github.com/joelpurra/bespoke-advanced",
     "bugs": "https://github.com/joelpurra/bespoke-advanced/issues",
