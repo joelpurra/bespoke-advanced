@@ -1,5 +1,5 @@
 /*!
- * bespoke-advanced v1.0.0
+ * bespoke-advanced v1.0.1
  *
  * Copyright 2014, Joel Purra
  * This content is released under the MIT license
