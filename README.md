@@ -1,6 +1,8 @@
 [![Build Status](https://secure.travis-ci.org/joelpurra/bespoke-advanced.png?branch=master)](https://travis-ci.org/joelpurra/bespoke-advanced) [![Coverage Status](https://coveralls.io/repos/joelpurra/bespoke-advanced/badge.png)](https://coveralls.io/r/joelpurra/bespoke-advanced)
 
-# bespoke-advanced
+# [bespoke-advanced](https://github.com/joelpurra/bespoke-advanced)
+
+**Check out the [presentation/demo.](https://joelpurra.github.io/bespoke-advanced/demo/)**
 
 Auto advance slides on a timer in [bespoke.js][bespoke.js], started and stopped with the <kbd>A</kbd> key.
 
