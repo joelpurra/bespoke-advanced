@@ -1,63 +1,65 @@
 {
-    "name": "bespoke-advanced",
-    "version": "1.0.1",
-    "description": "Auto advance slides on a timer in Bespoke.js",
-    "homepage": "https://github.com/joelpurra/bespoke-advanced",
-    "bugs": "https://github.com/joelpurra/bespoke-advanced/issues",
-    "author": {
-        "name": "Joel Purra",
-        "url": "http://joelpurra.com/"
-    },
-    "main": "./lib/bespoke-advanced.js",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/joelpurra/bespoke-advanced.git"
-    },
-    "scripts": {
-        "test": "gulp",
-        "coveralls": "gulp coveralls"
-    },
-    "peerDependencies": {
-        "bespoke": "^1.0.0",
-        "bespoke-convenient": "^1.0.0"
-    },
-    "devDependencies": {
-        "bespoke": "^1.0.0",
-        "bespoke-classes": "^1.0.0",
-        "bespoke-keys": "^1.0.0",
-        "bespoke-touch": "^1.0.0",
-        "browserify": "^4.1.5",
-        "function-bind": "^0.1.0",
-        "gulp": "^3.5.1",
-        "gulp-clean": "^0.2.4",
-        "gulp-coveralls": "^0.1.0",
-        "gulp-header": "^1.0.2",
-        "gulp-jshint": "^1.3.4",
-        "gulp-karma": "0.0.2",
-        "gulp-rename": "^1.2.0",
-        "gulp-uglify": "^0.3.0",
-        "istanbul": "^0.2.11",
-        "jshint-stylish": "^0.1.5",
-        "karma": "^0.10.9",
-        "karma-browserify": "^0.2.1",
-        "karma-coverage": "^0.1.5",
-        "karma-jasmine": "^0.1.5",
-        "karma-phantomjs-launcher": "^0.1.4",
-        "lodash": "^2.4.1",
-        "vinyl-buffer": "0.0.0",
-        "vinyl-map": "^1.0.1",
-        "vinyl-source-stream": "^0.1.1",
-        "bespoke-convenient": "^1.0.0",
-        "gulp-gh-pages": "joelpurra/gulp-gh-pages"
-    },
-    "engines": {
-        "node": ">=0.10.0"
-    },
-    "licenses": [{
-        "type": "MIT",
-        "url": "http://joelpurra.mit-license.org/2013-2014"
-    }],
-    "keywords": [
-        "bespoke-plugin"
-    ]
+  "name": "bespoke-advanced",
+  "version": "1.0.1",
+  "description": "Auto advance slides on a timer in Bespoke.js",
+  "homepage": "https://github.com/joelpurra/bespoke-advanced",
+  "bugs": "https://github.com/joelpurra/bespoke-advanced/issues",
+  "author": {
+    "name": "Joel Purra",
+    "url": "https://joelpurra.com/"
+  },
+  "main": "./lib/bespoke-advanced.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/joelpurra/bespoke-advanced.git"
+  },
+  "scripts": {
+    "test": "gulp",
+    "coveralls": "gulp coveralls"
+  },
+  "peerDependencies": {
+    "bespoke": "^1.0.0",
+    "bespoke-convenient": "^1.0.0"
+  },
+  "devDependencies": {
+    "bespoke": "^1.0.0",
+    "bespoke-classes": "^1.0.0",
+    "bespoke-keys": "^1.0.0",
+    "bespoke-touch": "^1.0.0",
+    "browserify": "^4.1.5",
+    "function-bind": "^0.1.0",
+    "gulp": "^3.5.1",
+    "gulp-clean": "^0.2.4",
+    "gulp-coveralls": "^0.1.0",
+    "gulp-header": "^1.0.2",
+    "gulp-jshint": "^1.3.4",
+    "gulp-karma": "0.0.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^0.3.0",
+    "istanbul": "^0.2.11",
+    "jshint-stylish": "^0.1.5",
+    "karma": "^0.10.9",
+    "karma-browserify": "^0.2.1",
+    "karma-coverage": "^0.1.5",
+    "karma-jasmine": "^0.1.5",
+    "karma-phantomjs-launcher": "^0.1.4",
+    "lodash": "^2.4.1",
+    "vinyl-buffer": "0.0.0",
+    "vinyl-map": "^1.0.1",
+    "vinyl-source-stream": "^0.1.1",
+    "bespoke-convenient": "^1.0.0",
+    "gulp-gh-pages": "joelpurra/gulp-gh-pages"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://joelpurra.mit-license.org/2013-2014"
+    }
+  ],
+  "keywords": [
+    "bespoke-plugin"
+  ]
 }

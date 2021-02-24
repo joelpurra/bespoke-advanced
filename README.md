@@ -83,7 +83,7 @@ $ bower install bespoke-advanced
 
 ## Credits
 
-[Mark Dalgleish](http://markdalgleish.com/) for [bespoke.js][bespoke.js] and related tools. This plugin was built with [generator-bespokeplugin](https://github.com/markdalgleish/generator-bespokeplugin).
+[Mark Dalgleish](https://markdalgleish.com/) for [bespoke.js][bespoke.js] and related tools. This plugin was built with [generator-bespokeplugin](https://github.com/markdalgleish/generator-bespokeplugin).
 
 Ed Schipul, [eschipul on flickr](https://secure.flickr.com/photos/eschipul/), for his photo [river boat in the mist](https://secure.flickr.com/photos/eschipul/3133923970/) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)). My recompressed version is also released under CC BY-SA 2.0.
 
@@ -92,9 +92,9 @@ My best friend, [bespoke-convenient](https://github.com/joelpurra/bespoke-conven
 
 ## License
 
-Copyright (c) 2013, 2014, [Joel Purra](http://joelpurra.com/) All rights reserved.
+Copyright (c) 2013, 2014, [Joel Purra](https://joelpurra.com/) All rights reserved.
 
-When using bespoke-advanced, comply to the [MIT license](http://joelpurra.mit-license.org/2013-2014). Please see the LICENSE file for details, and the [MIT License on Wikipedia](http://en.wikipedia.org/wiki/MIT_License).
+When using bespoke-advanced, comply to the [MIT license](https://joelpurra.mit-license.org/2013-2014). Please see the LICENSE file for details, and the [MIT License on Wikipedia](https://en.wikipedia.org/wiki/MIT_License).
 
 [bespoke.js]: https://github.com/markdalgleish/bespoke.js
 [default-events]: https://github.com/markdalgleish/bespoke.js#events
