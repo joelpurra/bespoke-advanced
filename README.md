@@ -6,6 +6,14 @@
 
 Auto advance slides on a timer in [bespoke.js][bespoke.js], started and stopped with the <kbd>A</kbd> key.
 
+
+
+> ## ⚠️ This project has been archived
+>
+> No future updates are planned. Feel free to continue using it, but expect no support.
+
+
+
 ## Download
 
 Download the [production version][min] or the [development version][max], or use a [package manager](#package-managers).
